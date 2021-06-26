@@ -5,6 +5,11 @@ export const Container = (props) => {
 
   const bgColor = { light: 'gray.50', dark: 'gray.900' }
 
+  const arr = [1,3,4,5,6];
+
+  console.log(...arr)
+  console.log(arr);
+
   const color = { light: 'black', dark: 'white' }
   return (
     <Flex
