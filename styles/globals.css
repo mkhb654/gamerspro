@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+:root {
+  --color-primary: #02c4f2;
+  --color-secondary: #ff800c;
+  --color-tertiary: #02c4f2;
+  --color-quaternary: #c60bf4;
+  --color-quinary: #05022f;
+  --color-senary: #02c4f2;
+  --color-septenary: rgba(220, 150, 0, 0.68);
+  --color-octonary: rgba(238, 175, 40, 0.22);
+  --color-nonary: ;
+  --color-denary: ;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
